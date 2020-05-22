@@ -3,3 +3,5 @@ Data Science Projects on Artificial Intelligence, Python, R , SAS, Adv. EXCEL, I
 
 Rapid miner Projects will be updated soon....
 
+Advanced Excel
+
